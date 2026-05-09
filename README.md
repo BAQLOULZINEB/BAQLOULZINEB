@@ -9,11 +9,7 @@
 
 ---
 
-## 🚀 About Me
 
-I'm a **4th-year AI & Data Science Engineering student** passionate about transforming raw data into meaningful, intelligent decisions. I operate at the intersection of **machine learning**, **predictive analytics**, and **real-world problem solving**.
-
-🏆 **Vice Champion** — EMSI Tech for Good Hackathon 2026 *(Fellah AI — Agricultural AI for Morocco)*
 
 ---
 
@@ -41,29 +37,7 @@ skills = {
 
 ---
 
-## 📌 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 🌾 **Fellah AI** | Agricultural AI solution — Vice Champion, EMSI Hackathon 2026 | Python, ML |
-| 🫁 **PneumoScan AI** | Pneumonia detection from X-rays, 97.48% accuracy | PyTorch, ResNet18, Grad-CAM |
-| 💓 **SmartHealth** | Real-time IoMT vital signs monitoring, <1s latency | ESP32, FastAPI, React.js, MongoDB |
-| 🕵️ **Fake Reviews Detector** | NLP pipeline for fake review classification, 87.76% accuracy | TF-IDF, SVM, NLTK |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BAQLOULZINEB&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAQLOULZINEB&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-## 🌍 Languages
-
-🇲🇦 Arabic (Native) · 🇫🇷 French (Fluent) · 🇬🇧 English (Professional) · 🇪🇸 Spanish (Basic)
 
 ---
 
