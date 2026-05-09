@@ -25,15 +25,14 @@
 
 ## 🛠️ Tech Stack
 
-```python
-skills = {
-    "Languages":    ["Python", "SQL", "Java (Basic)", "C (Basic)"],
-    "ML / AI":      ["PyTorch", "Scikit-learn", "CNN", "NLP", "Transfer Learning"],
-    "Data":         ["Pandas", "NumPy", "Power BI", "Feature Engineering"],
-    "Web & APIs":   ["FastAPI", "React.js", "MongoDB", "WebSocket"],
-    "Tools":        ["Jupyter", "Google Colab", "GitHub", "ONNX", "Streamlit"]
-}
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
