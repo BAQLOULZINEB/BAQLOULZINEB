@@ -13,13 +13,13 @@
 
 ---
 
-## 🧠 What I Work On
+##  What I Work On
 
-- 🤖 **Machine Learning & Deep Learning** — CNNs, Transfer Learning, NLP, Predictive Modeling
-- 📊 **Business Intelligence** — Power BI, Data Visualization, Statistical Analysis
-- 🏥 **Computer Vision** — Medical imaging (PneumoScan AI: 97.48% accuracy on chest X-rays)
-- 🌐 **IoT & Edge Computing** — ESP32, FastAPI, real-time monitoring systems
-- 🔗 **Decentralized Systems** — Blockchain & Web3 exploration
+-  **Machine Learning & Deep Learning** — CNNs, Transfer Learning, NLP, Predictive Modeling
+-  **Business Intelligence** — Power BI, Data Visualization, Statistical Analysis
+-  **Computer Vision** — Medical imaging (PneumoScan AI: 97.48% accuracy on chest X-rays)
+-  **IoT & Edge Computing** — ESP32, FastAPI, real-time monitoring systems
+-  **Decentralized Systems** — Blockchain & Web3 exploration
 
 ---
 
